@@ -5,7 +5,7 @@
 Description : Fine coregistration of 2 DEMs using the method presented in Nuth & Kaab 2011
 
 Author : Amaury Dehecq
-Date : June 2015
+Date : April 2020
 """
 
 #Python libraries
